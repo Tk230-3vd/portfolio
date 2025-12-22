@@ -6,6 +6,8 @@ img, video{
 
 body {
     background-color: rgba(233, 122, 207, 0.9); 
+    max-width:800px;
+    margin-inline: auto;
 }    
 
 main{
